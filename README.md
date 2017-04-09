@@ -1,4 +1,7 @@
 # BrainfuckMinifier
+    Optimizer currently under development
+    I might rewrite the project using the new project of mine: Brainfuck2Vectors
+
 Minifies brainfuck scripts, written in brainfuck
 
 I am really sorry for comments missing commas, but as you know... It's "read char" OPcode
